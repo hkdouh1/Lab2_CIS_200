@@ -1,3 +1,3 @@
 # Lab2_CIS_200
 
-! [Alt text] (output_Lab2)
+![Alt text] (screenshots/Screenshot 2025-01-28 112145)
